@@ -1,0 +1,141 @@
+{
+  "height": 3680612,
+  "votingInterval": 10000,
+  "votingThreshold": 8000,
+  "nextCheck": 3690000,
+  "features": [
+    {
+      "id": 1,
+      "description": "Minimum Generating Balance of 1000 WAVES",
+      "blockchainStatus": "ACTIVATED",
+      "nodeStatus": "IMPLEMENTED",
+      "activationHeight": 810000
+    },
+    {
+      "id": 2,
+      "description": "NG Protocol",
+      "blockchainStatus": "ACTIVATED",
+      "nodeStatus": "IMPLEMENTED",
+      "activationHeight": 805000
+    },
+    {
+      "id": 3,
+      "description": "Mass Transfer Transaction",
+      "blockchainStatus": "ACTIVATED",
+      "nodeStatus": "IMPLEMENTED",
+      "activationHeight": 940000
+    },
+    {
+      "id": 4,
+      "description": "Smart Accounts",
+      "blockchainStatus": "ACTIVATED",
+      "nodeStatus": "IMPLEMENTED",
+      "activationHeight": 1190000
+    },
+    {
+      "id": 5,
+      "description": "Data Transaction",
+      "blockchainStatus": "ACTIVATED",
+      "nodeStatus": "IMPLEMENTED",
+      "activationHeight": 1060000
+    },
+    {
+      "id": 6,
+      "description": "Burn Any Tokens",
+      "blockchainStatus": "ACTIVATED",
+      "nodeStatus": "IMPLEMENTED",
+      "activationHeight": 1070000
+    },
+    {
+      "id": 7,
+      "description": "Fee Sponsorship",
+      "blockchainStatus": "ACTIVATED",
+      "nodeStatus": "IMPLEMENTED",
+      "activationHeight": 1080000
+    },
+    {
+      "id": 8,
+      "description": "Fair PoS",
+      "blockchainStatus": "ACTIVATED",
+      "nodeStatus": "IMPLEMENTED",
+      "activationHeight": 1100000
+    },
+    {
+      "id": 9,
+      "description": "Smart Assets",
+      "blockchainStatus": "ACTIVATED",
+      "nodeStatus": "IMPLEMENTED",
+      "activationHeight": 1340000
+    },
+    {
+      "id": 10,
+      "description": "Smart Account Trading",
+      "blockchainStatus": "ACTIVATED",
+      "nodeStatus": "IMPLEMENTED",
+      "activationHeight": 1340000
+    },
+    {
+      "id": 11,
+      "description": "RIDE 4 DAPPS",
+      "blockchainStatus": "ACTIVATED",
+      "nodeStatus": "IMPLEMENTED",
+      "activationHeight": 1610000
+    },
+    {
+      "id": 12,
+      "description": "Order Version 3",
+      "blockchainStatus": "ACTIVATED",
+      "nodeStatus": "IMPLEMENTED",
+      "activationHeight": 1610000
+    },
+    {
+      "id": 13,
+      "description": "Reduce NFT fee",
+      "blockchainStatus": "ACTIVATED",
+      "nodeStatus": "IMPLEMENTED",
+      "activationHeight": 1610000
+    },
+    {
+      "id": 14,
+      "description": "Block Reward and Community Driven Monetary Policy",
+      "blockchainStatus": "ACTIVATED",
+      "nodeStatus": "IMPLEMENTED",
+      "activationHeight": 1740000
+    },
+    {
+      "id": 15,
+      "description": "Ride V4, VRF, Protobuf, Failed transactions",
+      "blockchainStatus": "ACTIVATED",
+      "nodeStatus": "IMPLEMENTED",
+      "activationHeight": 2230000
+    },
+    {
+      "id": 16,
+      "description": "Ride V5, dApp-to-dApp invocations",
+      "blockchainStatus": "ACTIVATED",
+      "nodeStatus": "IMPLEMENTED",
+      "activationHeight": 2650000
+    },
+    {
+      "id": 17,
+      "description": "Ride V6, MetaMask support",
+      "blockchainStatus": "ACTIVATED",
+      "nodeStatus": "IMPLEMENTED",
+      "activationHeight": 3180000
+    },
+    {
+      "id": 18,
+      "description": "Consensus and MetaMask updates",
+      "blockchainStatus": "ACTIVATED",
+      "nodeStatus": "IMPLEMENTED",
+      "activationHeight": 3540000
+    },
+    {
+      "id": 19,
+      "description": "Block Reward Distribution",
+      "blockchainStatus": "VOTING",
+      "nodeStatus": "IMPLEMENTED",
+      "supportingBlocks": 169
+    }
+  ]
+}
